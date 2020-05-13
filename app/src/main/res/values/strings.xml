@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">App User Github</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favorite</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="Search" translatable="false">Search</string>
+    <string name="photo" translatable="false">Photo</string>
+    <string name="daily_reminder" tools:ignore="MissingTranslation">Daily Reminder</string>
+    <string name="reminder_to_check_what_s_new" translatable="false">Reminder to open application</string>
+    <string name="reminder" translatable="false">Reminder</string>
+    <string name="daily" translatable="false">Daily reminder on</string>
+    <string name="daily_of" translatable="false">Daily reminder off</string>
+    <string name="following" translatable="false">Following</string>
+    <string name="followers" translatable="false">Followers</string>
+    <string name="change_language_settings" translatable="false">Change Language Settings</string>
+    <string name="addfavorite" translatable="false">addfavorite</string>
+    <string name="check">Check what\'s new</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+</resources>
